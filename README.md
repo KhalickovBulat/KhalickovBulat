@@ -6,7 +6,8 @@
 ##### :nerd_face: I am a software developer </br>
 ##### :boxing_glove: I love doing sports <br/>
 ##### :cat: There is a cat named Maria </br>
-##### :art: In my free time I like to draw </br>  
+##### :art: In my free time I like to draw
+##### :computer: and play League of Legends(TFT) </br>  
 
 
 ___________________________________________________________________________________________________________________________________________
